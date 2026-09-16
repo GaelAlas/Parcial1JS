@@ -1,4 +1,16 @@
 {
+  "name": "parcial-1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "App.js",
+  "scripts": {
+    "start": "node App.js",
+    "dev": "node --watch App.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
   "dependencies": {
     "express": "^5.2.1"
   }
