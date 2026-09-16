@@ -1,5 +1,3 @@
-# Parcial1JS
-
 Objetivo de el parcial:
 Se debe desarrolalr una API REST utilizando Express  que permita administrar 
 solicitudes de soporte tecnico dentro de una empresa.
@@ -11,7 +9,6 @@ Cada incidencia representa un problema tecnico que debe ser atenndido por el dep
 de TI.
 
 Para poder poner a prueba con algunos datos que eh pensado ya podemos poner en el new request:
-Antes ejecutar en la terminal: npm run dev
 
 Registrar una incidencia: POST http://localhost:3000/incidencias
     "{
